@@ -33,8 +33,8 @@ Place the following files from this repository into **`C:\Scripts\`**:
 To make the chime work automatically every time you log in:
 1.  Press **`Win + R`** on your keyboard.
 2.  Type **`shell:startup`** and hit **Enter**.
-3.  Go to `C:\Scripts`, **Right-click** the `LaunchCharger.vbs` file, and select **Copy**.
-4.  Inside the Startup folder, **Right-click** in the empty space and select **Paste Shortcut**.
+3.  Go to `C:\Scripts`, **Right-click** the `LaunchCharger.vbs` file, and select **show more option --> create shortcut --> then cut that shortcut**.
+4.  Inside the Startup folder, **Right-click** in the empty space and select **Paste Shortcut the name shortcut should be LaunchCharger.vbs same as the name inside** C:\Scripts **.
 
 ---
 
